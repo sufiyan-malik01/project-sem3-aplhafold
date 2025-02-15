@@ -1,0 +1,13 @@
+streamlit
+stmol==0.0.9
+py3Dmol
+biotite
+PIL
+pandas
+altair
+Image
+requests
+numpy
+io
+matplotlib.pyplot
+Bio.PDB
